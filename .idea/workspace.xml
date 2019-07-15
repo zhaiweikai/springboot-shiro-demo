@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f73da488-b18a-4663-bc5a-7fc650139b36" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/111.txt" beforeDir="false" afterPath="$PROJECT_DIR$/111.txt" afterDir="false" />
+    <list default="true" id="f73da488-b18a-4663-bc5a-7fc650139b36" name="Default" comment="翟伟凯">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qf/Exception/ExcepitonController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qf/SpringBootShiroApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qf/config/shiroConifg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qf/controller/ShiroController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qf/dao/SysPermissionMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qf/dao/SysUserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qf/domain/SysPermission.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qf/domain/SysUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qf/service/SysPermissionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qf/service/SysUserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qf/service/impl/SysPermissionServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qf/service/impl/SysUserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qf/shiro/MyRealm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/SysPermissionMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/SysUserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/one_page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/two_page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/unath.html" beforeDir="false" />
     </list>
     <ignored path="springboot-shiro-demo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -17,6 +39,10 @@
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="springboot-shiro-demo" />
@@ -101,7 +127,7 @@
         <entry file="file://$PROJECT_DIR$/111.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="46" selection-start-column="46" selection-end-column="46" />
+              <caret column="60" lean-forward="true" selection-start-column="60" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -141,6 +167,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/com/qf/config/shiroConifg.java" root0="FORCE_HIGHLIGHTING" />
@@ -183,6 +212,11 @@
         <option name="mavenHome" value="G:/apache-maven-3.5.0" />
         <option name="userSettingsFile" value="G:\apache-maven-3.5.0\conf\settings.xml" />
       </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -228,10 +262,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="1" />
+    <option name="x" value="36" />
+    <option name="y" value="481" />
     <option name="width" value="1935" />
-    <option name="height" value="1037" />
+    <option name="height" value="1019" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -246,6 +280,39 @@
             <path>
               <item name="springboot-shiro-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot-shiro-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-shiro-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-shiro-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-shiro-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-shiro-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-shiro-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-shiro-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-shiro-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-shiro-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot-shiro-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-shiro-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -522,12 +589,20 @@
       <option name="presentableId" value="Default" />
       <updated>1562983890617</updated>
       <workItem from="1562983893051" duration="6557000" />
-      <workItem from="1563155259664" duration="31000" />
+      <workItem from="1563155259664" duration="759000" />
     </task>
+    <task id="LOCAL-00001" summary="翟伟凯">
+      <created>1563155470584</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563155470584</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6588000" />
+    <option name="totallyTimeSpent" value="7316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="1" width="1548" height="829" extended-state="0" />
@@ -535,6 +610,7 @@
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
+      <window_info id="Web" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536913" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
@@ -543,6 +619,7 @@
       <window_info id="Palette&#9;" order="5" />
       <window_info anchor="bottom" id="FindBugs-IDEA" />
       <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -574,6 +651,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="翟伟凯" />
+    <option name="LAST_COMMIT_MESSAGE" value="翟伟凯" />
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
@@ -590,7 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -616,9 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding>
-            <marker date="1562984786367" expanded="true" signature="797:937" placeholder="SELECT FROM TB_SYS_USER" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -626,9 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="17" column="40" selection-start-line="4" selection-start-column="6" selection-end-line="17" selection-end-column="40" />
-          <folding>
-            <marker date="1562985104241" expanded="true" signature="793:1019" placeholder="select p.* f... tb_sys_user" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -807,7 +881,7 @@
     <entry file="file://$PROJECT_DIR$/111.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="46" selection-start-column="46" selection-end-column="46" />
+          <caret column="60" lean-forward="true" selection-start-column="60" selection-end-column="60" />
         </state>
       </provider>
     </entry>
